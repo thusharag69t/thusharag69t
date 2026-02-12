@@ -10,7 +10,7 @@ Artificial Intelligence and Data Science Student
   <img
     alt="Coding Animation"
     width="460"
-    src="https://i.pinimg.com/originals/36/2d/5c/362d5c55859146c0c7debfca296ad321.gif"
+    src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FRbDKaczqWovIugyJmW%2Fgiphy.gif%3Fcid%3D790b76117fcb52c86762d981a8ef2cfa4b396358982ef5fe%26rid%3Dgiphy.gif%26ct%3Dg"
   />
 </p>
 
